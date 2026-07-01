@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0334/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 注大乘入楞伽經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1791.xml
+    old_id: T39n1791
+hash: sha256:2ec6ce0457c0e1e84f393e29a00d81a1e841413ac95d9acee7689d0d83983265

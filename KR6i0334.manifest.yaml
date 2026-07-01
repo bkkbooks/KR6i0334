@@ -1,0 +1,385 @@
+canonical_identifier: bkk:krp/KR6i0334/v1
+canonical_location: https://kanripo.org/bkk/KR6i0334/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 注大乘入楞伽經
+  identifiers:
+    alt_id:
+    - T39n1791
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1791.xml
+    old_id: T39n1791
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0334_000.yaml, hash: 'sha256:2ec6ce0457c0e1e84f393e29a00d81a1e841413ac95d9acee7689d0d83983265'}
+  - {seq: 1, filename: KR6i0334_001.yaml, hash: 'sha256:e79540e1d9b350649ac1bc74fb71d3bfe02eb0fff2d0fd3169e3d35ad9a874a4'}
+  - {seq: 2, filename: KR6i0334_002.yaml, hash: 'sha256:848ed9b3aa5d518ab3b53fe1554678a7a2c47356a4d0f0fb8078ea914ba572f0'}
+  - {seq: 3, filename: KR6i0334_003.yaml, hash: 'sha256:c233117da69e58f4d6e35cc8ed52e66aea5beed4eb437898c5725ec9fae4bb6d'}
+  - {seq: 4, filename: KR6i0334_004.yaml, hash: 'sha256:74d9cdf78637a978ea2c2fd3107514c5814726f875deb8f52ae8dbb6cd34fa92'}
+  - {seq: 5, filename: KR6i0334_005.yaml, hash: 'sha256:ccf9ee76455a2faf370de9526686506fde505d224b66f4b0cc956271b7fbeb7f'}
+  - {seq: 6, filename: KR6i0334_006.yaml, hash: 'sha256:a54a53f72845d4f7098b9b4908e5f712a1ab7ee990c4b158c2a9319bf3d56080'}
+  - {seq: 7, filename: KR6i0334_007.yaml, hash: 'sha256:c1f6406a4ca2aff94f17007e92e80dd5aea2b50e4fd12bde58a77b5203700bb4'}
+  - {seq: 8, filename: KR6i0334_008.yaml, hash: 'sha256:563e9f75b7db794ae6a94a6a205a2a27278631d336563281d29a5a44645716c9'}
+  - {seq: 9, filename: KR6i0334_009.yaml, hash: 'sha256:157b48f5b41469900564be8f1c47b85b216ed6805453efea156677995fd511ee'}
+  - {seq: 10, filename: KR6i0334_010.yaml, hash: 'sha256:74ef5b75242818eb332aa2c7b9c6965b00ff5c4e3c4969670456a1388ba23034'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0334_001.markers.yaml, hash: 'sha256:f59633e556988e06de73ed127ed34c0b04cfb4520d54e394e7db26d8cf9e12b6'}
+  - {seq: 2, role: markers, filename: assets/KR6i0334_002.markers.yaml, hash: 'sha256:3332acdd43af64315ccdc994ff0fff84c4feb106c1594b79a02e31a151b3d320'}
+  - {seq: 3, role: markers, filename: assets/KR6i0334_003.markers.yaml, hash: 'sha256:18f89008429f1691fecb3eff5f64caa241cb81b594ebc6e2becc5cd625c1ae25'}
+  - {seq: 4, role: markers, filename: assets/KR6i0334_004.markers.yaml, hash: 'sha256:3d8ad8f473dc87af617b56d7a16ad9126d5d93e052c457589dbbdb6ca70dc001'}
+  - {seq: 5, role: markers, filename: assets/KR6i0334_005.markers.yaml, hash: 'sha256:003708bd949f82252ee917bf0560a4dfba1a079f23f91ef6a3d20737f855a164'}
+  - {seq: 6, role: markers, filename: assets/KR6i0334_006.markers.yaml, hash: 'sha256:70eec3a868a4462da41b4e540dc4c55f34f49c1f6357dfdb8b3cdb616b1c3d6e'}
+  - {seq: 7, role: markers, filename: assets/KR6i0334_007.markers.yaml, hash: 'sha256:bcab006edc9883306b942c6c01465ee02ced2771c97569ed60361af1d15b873a'}
+  - {seq: 8, role: markers, filename: assets/KR6i0334_008.markers.yaml, hash: 'sha256:f5a2acf983ce687a1c5afee35703c6e7c230c1a3ce623212ed7d772eb242df75'}
+  - {seq: 9, role: markers, filename: assets/KR6i0334_009.markers.yaml, hash: 'sha256:c14b291893595085917b332dc2d235d9983bf477205746f4220f880d6511ed17'}
+  - {seq: 10, role: markers, filename: assets/KR6i0334_010.markers.yaml, hash: 'sha256:3b638094521d5c03912bdeeb427c4f379dfc32c65dfe62d33792a245a92c98c0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0334_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9991
+  label: '注大乘入楞伽經卷第一并序
+
+    〔宋、時〕'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0334_T_001-mulu-1
+    span:
+    - body
+    - 1469
+    - 1469
+  label: 1 羅婆那王勸請品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0334_T_001-mulu-2
+    span:
+    - body
+    - 6345
+    - 6345
+  label: 2 問答品(一-二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0334_T_001-mulu-3
+    span:
+    - body
+    - 6345
+    - 6345
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0334_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11595
+  label: 注大乘入楞伽經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0334_T_002-mulu-1
+    span:
+    - body
+    - 2789
+    - 2789
+  label: 3 集一切法品(二-五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0334_T_002-mulu-2
+    span:
+    - body
+    - 2789
+    - 2789
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0334_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10186
+  label: 注大乘入楞伽經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0334_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9812
+  label: 注大乘入楞伽經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0334_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 10566
+  label: 注大乘入楞伽經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0334_T_005-mulu-1
+    span:
+    - body
+    - 8663
+    - 8663
+  label: 4 佛心品(五-七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0334_T_005-mulu-2
+    span:
+    - body
+    - 8663
+    - 8663
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0334_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 10788
+  label: 注大乘入楞伽經卷第六〔時〕
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0334_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 9744
+  label: 注大乘入楞伽經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0334_T_007-mulu-1
+    span:
+    - body
+    - 371
+    - 371
+  label: 5 盧迦耶陀品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0334_T_007-mulu-2
+    span:
+    - body
+    - 2484
+    - 2484
+  label: 6 涅槃品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0334_T_007-mulu-3
+    span:
+    - body
+    - 4175
+    - 4175
+  label: 7 法身品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 9882
+  label: 注大乘入楞伽經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 8 無常品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-2
+    span:
+    - body
+    - 1838
+    - 1838
+  label: 9 現證品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-3
+    span:
+    - body
+    - 3086
+    - 3086
+  label: 10 如來常無常品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-4
+    span:
+    - body
+    - 3689
+    - 3689
+  label: 11 如來藏性品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-5
+    span:
+    - body
+    - 4950
+    - 4950
+  label: 12 五法門品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-6
+    span:
+    - body
+    - 6180
+    - 6180
+  label: 13 恒河沙品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-7
+    span:
+    - body
+    - 7075
+    - 7075
+  label: 14 剎那品(八-九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0334_T_008-mulu-8
+    span:
+    - body
+    - 7075
+    - 7075
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0334_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8127
+  label: 注大乘入楞伽經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0334_T_009-mulu-1
+    span:
+    - body
+    - 511
+    - 511
+  label: 15 變化品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0334_T_009-mulu-2
+    span:
+    - body
+    - 2302
+    - 2302
+  label: 16 斷食肉品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0334_T_009-mulu-3
+    span:
+    - body
+    - 3837
+    - 3837
+  label: 17 陀羅尼品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0334_T_009-mulu-4
+    span:
+    - body
+    - 4513
+    - 4513
+  label: 18 偈頌品(九-一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0334_T_009-mulu-5
+    span:
+    - body
+    - 4513
+    - 4513
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0334_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5703
+  label: 注大乘入楞伽經卷第十
+  type: juan
+  level: 1
+hash: sha256:8ccc11995daf37254bbb6fe5f5b9272a28fb83b35bcc50c453804f93ebd36ca5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
